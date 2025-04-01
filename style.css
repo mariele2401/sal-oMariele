@@ -6,7 +6,7 @@ padding: 0px;
 #banner{
     width: 100%;
 }
-titulo-principal{
+.titulo-principal{
 text-transform: uppercase;
 text-align: center;
 color: rgba(17, 17, 17, 0);
