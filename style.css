@@ -4,6 +4,7 @@
 titulo-principal{
 text-transform: uppercase;
 text-align: center;
-color: rgb(243, 12, 12);
+color: rgba(17, 17, 17, 0);
 background-color: #8B0000;
+padding: 50px;
 }
