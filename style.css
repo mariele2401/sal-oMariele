@@ -11,8 +11,8 @@ font-family: sans-serif;
 .titulo-principal{
 text-transform: uppercase;
 text-align: center;
-color: white;
-background-color: #8B0000;
+color: rgb(26, 1, 1);
+background-color: #ec9595;
 padding: 50px;
 margin: 0px;
 }
