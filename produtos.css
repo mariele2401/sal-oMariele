@@ -32,3 +32,40 @@ nav a:hover{
     color::rgb(241, 154, 154)  ;
     text-
 }
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos li{
+display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+margin:0 1.5% ;
+padding: 30px 20px;
+box-sizing: border-box;
+ border: 2px solid rgb(231, 6, 6);
+ border-radius: 10px;
+}
+
+.produtos li:hover {
+    border-color: #c55050; 
+}
+
+.produtos li:active{
+ border-color: #740505;
+
+}
+
+.produtos li:hover h2 {
+  border-color: #C78C19;
+    font-size: 34px;     
+}
+.produtos li:hover{
+    border-color: #6e3535;
+}
+
+
