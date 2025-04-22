@@ -1,5 +1,5 @@
 body{
-    position: absolute;
+
 }
 
 h1{
@@ -17,10 +17,7 @@ button{
 
 form{
     width: 50%;
-    position: relative;
+    margin: auto;
+    display: block;
 
-}
-
-form fieldset{
-    width: 90%  ;
 }
