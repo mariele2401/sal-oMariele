@@ -65,5 +65,26 @@ box-sizing: border-box;
     font-size: 34px;     
 }
 
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produtos-descricao{
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+    background-color: #c55050;
+    padding: 40px 0;
+}
+
+.copyright{
+    color: #410202;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
 
 
